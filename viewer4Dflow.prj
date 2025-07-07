@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="2215982332" file="/Users/naren/Documents/MATLAB/viewer4Dflow/viewer4Dflow.prj" location="/Users/naren/Documents/MATLAB/viewer4Dflow" name="viewer4Dflow" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="280089667" file="/Users/naren/Documents/MATLAB/viewer4Dflow/viewer4Dflow.prj" location="/Users/naren/Documents/MATLAB/viewer4Dflow" name="viewer4Dflow" target="target.mlapps" target-name="Package App">
     <param.appname>viewer4Dflow</param.appname>
     <param.authnamewatermark>Tarun Naren</param.authnamewatermark>
     <param.email />
@@ -8,7 +8,7 @@
     <param.icons />
     <param.summary>A simple viewer for 4D Flow MRI data</param.summary>
     <param.description />
-    <param.screenshot>/private/var/folders/g4/w2zk__ld593gvqz0k0srxd9h0000gp/T/tp2410f269_581d_4631_a3a2_9866287e7460.png</param.screenshot>
+    <param.screenshot>/private/var/folders/g4/w2zk__ld593gvqz0k0srxd9h0000gp/T/tp7ff19c70_42bb_4256_ac5a_d827202c50ea.png</param.screenshot>
     <param.version>1.0</param.version>
     <param.products.name />
     <param.products.id />
