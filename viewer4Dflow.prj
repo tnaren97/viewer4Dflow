@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="280089667" file="/Users/naren/Documents/MATLAB/viewer4Dflow/viewer4Dflow.prj" location="/Users/naren/Documents/MATLAB/viewer4Dflow" name="viewer4Dflow" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="2889918750" file="/Users/naren/Documents/MATLAB/viewer4Dflow/viewer4Dflow.prj" location="/Users/naren/Documents/MATLAB/viewer4Dflow" name="viewer4Dflow" target="target.mlapps" target-name="Package App">
     <param.appname>viewer4Dflow</param.appname>
     <param.authnamewatermark>Tarun Naren</param.authnamewatermark>
     <param.email />
@@ -8,7 +8,7 @@
     <param.icons />
     <param.summary>A simple viewer for 4D Flow MRI data</param.summary>
     <param.description />
-    <param.screenshot>/private/var/folders/g4/w2zk__ld593gvqz0k0srxd9h0000gp/T/tp7ff19c70_42bb_4256_ac5a_d827202c50ea.png</param.screenshot>
+    <param.screenshot>/private/var/folders/g4/w2zk__ld593gvqz0k0srxd9h0000gp/T/tpdb50803a_fbe3_48d3_bc61_ce9ec934da9a.png</param.screenshot>
     <param.version>1.0</param.version>
     <param.products.name />
     <param.products.id />
@@ -83,7 +83,7 @@
       <vista>false</vista>
       <linux>false</linux>
       <solaris>false</solaris>
-      <osver>15.5</osver>
+      <osver>15.6</osver>
       <os32>true</os32>
       <os64>false</os64>
       <arch>maci64</arch>
