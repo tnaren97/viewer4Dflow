@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="2889918750" file="/Users/naren/Documents/MATLAB/viewer4Dflow/viewer4Dflow.prj" location="/Users/naren/Documents/MATLAB/viewer4Dflow" name="viewer4Dflow" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="3916269269" file="/Users/txn009/Documents/MATLAB/viewer4Dflow/viewer4Dflow.prj" location="/Users/txn009/Documents/MATLAB/viewer4Dflow" name="viewer4Dflow" target="target.mlapps" target-name="Package App">
     <param.appname>viewer4Dflow</param.appname>
     <param.authnamewatermark>Tarun Naren</param.authnamewatermark>
     <param.email />
@@ -7,9 +7,9 @@
     <param.icon />
     <param.icons />
     <param.summary>A simple viewer for 4D Flow MRI data</param.summary>
-    <param.description />
-    <param.screenshot>/private/var/folders/g4/w2zk__ld593gvqz0k0srxd9h0000gp/T/tpdb50803a_fbe3_48d3_bc61_ce9ec934da9a.png</param.screenshot>
-    <param.version>1.0</param.version>
+    <param.description>Install as a Matlab app with the included installer or place in your MATLAB folder to call as a function from the command line with inputs</param.description>
+    <param.screenshot>/private/var/folders/x3/1dqjfqr12qg_mfcnwq5l26300000gp/T/tpd199ea57_85c5_4b67_bcc4_907185c49a47.png</param.screenshot>
+    <param.version>1.5</param.version>
     <param.products.name />
     <param.products.id />
     <param.products.version />
@@ -21,8 +21,6 @@
       <param.company />
       <param.icon />
       <param.icons />
-      <param.description />
-      <param.version />
       <param.products.name />
       <param.products.id />
       <param.products.version />
@@ -36,42 +34,18 @@
     <fileset.resources />
     <fileset.package />
     <build-deliverables>
-      <file location="/Users/naren/Documents/MATLAB" name="viewer4Dflow" optional="false">/Users/naren/Documents/MATLAB/viewer4Dflow</file>
+      <file location="/Users/txn009/Documents/MATLAB" name="viewer4Dflow" optional="false">/Users/txn009/Documents/MATLAB/viewer4Dflow</file>
     </build-deliverables>
     <workflow />
     <matlab>
       <root>/Applications/MATLAB_R2023b.app</root>
       <toolboxes>
         <toolbox name="matlabcoder" />
-        <toolbox name="embeddedcoder" />
-        <toolbox name="fixedpoint" />
-        <toolbox name="matlabhdlcoder" />
-        <toolbox name="neuralnetwork" />
       </toolboxes>
       <toolbox>
         <matlabcoder>
           <enabled>true</enabled>
         </matlabcoder>
-      </toolbox>
-      <toolbox>
-        <embeddedcoder>
-          <enabled>true</enabled>
-        </embeddedcoder>
-      </toolbox>
-      <toolbox>
-        <fixedpoint>
-          <enabled>true</enabled>
-        </fixedpoint>
-      </toolbox>
-      <toolbox>
-        <matlabhdlcoder>
-          <enabled>true</enabled>
-        </matlabhdlcoder>
-      </toolbox>
-      <toolbox>
-        <neuralnetwork>
-          <enabled>true</enabled>
-        </neuralnetwork>
       </toolbox>
     </matlab>
     <platform>
@@ -83,7 +57,7 @@
       <vista>false</vista>
       <linux>false</linux>
       <solaris>false</solaris>
-      <osver>15.6</osver>
+      <osver>15.6.1</osver>
       <os32>true</os32>
       <os64>false</os64>
       <arch>maci64</arch>
