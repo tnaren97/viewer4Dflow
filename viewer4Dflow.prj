@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="3916269269" file="/Users/txn009/Documents/MATLAB/viewer4Dflow/viewer4Dflow.prj" location="/Users/txn009/Documents/MATLAB/viewer4Dflow" name="viewer4Dflow" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="3206657319" file="/Users/txn009/Documents/MATLAB/viewer4Dflow/viewer4Dflow.prj" location="/Users/txn009/Documents/MATLAB/viewer4Dflow" name="viewer4Dflow" target="target.mlapps" target-name="Package App">
     <param.appname>viewer4Dflow</param.appname>
     <param.authnamewatermark>Tarun Naren</param.authnamewatermark>
     <param.email />
@@ -8,7 +8,7 @@
     <param.icons />
     <param.summary>A simple viewer for 4D Flow MRI data</param.summary>
     <param.description>Install as a Matlab app with the included installer or place in your MATLAB folder to call as a function from the command line with inputs</param.description>
-    <param.screenshot>/private/var/folders/x3/1dqjfqr12qg_mfcnwq5l26300000gp/T/tpd199ea57_85c5_4b67_bcc4_907185c49a47.png</param.screenshot>
+    <param.screenshot>/private/var/folders/x3/1dqjfqr12qg_mfcnwq5l26300000gp/T/tpc7e9b614_e0c2_4bf2_87ed_db7408c721f7.png</param.screenshot>
     <param.version>1.5</param.version>
     <param.products.name />
     <param.products.id />
@@ -57,7 +57,7 @@
       <vista>false</vista>
       <linux>false</linux>
       <solaris>false</solaris>
-      <osver>15.6.1</osver>
+      <osver>15.7.2</osver>
       <os32>true</os32>
       <os64>false</os64>
       <arch>maci64</arch>
