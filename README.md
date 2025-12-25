@@ -1,5 +1,5 @@
 # viewer4Dflow
-A simple and fast MATLAB based GUI for visually inspecting 4D flow MRI data. Supports UW Madison's PCVIPR data format. Can be installed as an app to MATLAB with the .mlappinstall file and opened from the app toolbar. It can also be called from the command line if you add the .mlapp file to your MATLAB path.
+A simple and fast MATLAB based GUI for visually inspecting 4D flow MRI data. Supports UW Madison's PCVIPR data format. Can be installed as an app to MATLAB with the .mltbx file and opened from the app toolbar. It can also be called from the command line if you add the .mlapp file to your MATLAB path.
 
 <img width="829" alt="image" src="https://github.com/user-attachments/assets/7e6ff0a9-3688-4416-a82f-a6ff43b00b9d" />
 
